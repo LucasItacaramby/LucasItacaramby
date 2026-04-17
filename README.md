@@ -11,7 +11,7 @@
  
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="220px" src="./src/coding.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -21,8 +21,8 @@
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
