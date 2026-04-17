@@ -6,8 +6,8 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+👋 Olá! Meu nome é Lucas Chaves Itacaramby, tenho 21 anos e estou cursando Engenharia de Software na UnB (Universidade de Brasília). \
+🎓 Possuo conhecimento básico sobre desenvolvimento e tecnologia. Estou buscando oportunidades para desenvolver minhas habilidades em programação, aprender e aprofundar meu conhecimento!
  
 #
 
@@ -15,12 +15,27 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/paulopontodev/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucas-itacaramby-b113933a8/)
 
 <h3 align="left">My Stack ~</h3>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -38,14 +53,6 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 
 <img
     align="left"
@@ -56,33 +63,6 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
-<br/>
 <br/>
 
 <h3 align="left">GitHub Stats</h3>
@@ -93,14 +73,14 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=LucasItacaramby&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=LucasItacaramby&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
