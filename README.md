@@ -11,7 +11,7 @@
  
 #
 
-<img align="right" alt="" height="220px" src="./src/coding.gif">
+<img align="right" alt="" height="200px" src="./src/coding.gif">
 
 <h3 align="left">Connect with me!</h3>
 
